@@ -9,7 +9,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone [https://github.com/your-username/number-guessing-game.git](https://github.com/cocodk3432/Number-Guessing-Game)
+git clone [clone this](https://github.com/cocodk3432/Number-Guessing-Game)
 cd number-guessing-game
 Run the game:
 
